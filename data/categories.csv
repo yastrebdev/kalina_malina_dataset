@@ -1,0 +1,74 @@
+id,name,slug
+89,Птица,ptica
+90,Свинина,svinina
+91,Колбаски и котлеты,kolbaski-i-kotlety
+92,Рыба,ryba
+96,Сопутствующие товары,soputstvuyushchie-tovary
+67,"Мясо, полуфабрикаты из мяса",myaso-polufabrikaty-iz-myasa
+69,Полуфабрикаты из птицы,ptica-polufabrikaty-iz-pticy
+70,Утка,utka
+71,"Кости, субпродукты",kosti-subprodukty
+214,Курица,chicken
+36,Колбасы,kolbasy
+37,Мясные деликатесы,myasnye-delikatesy
+38,"Сосиски, сардельки",sosiski-sardelki
+39,Паштеты,pashtety
+40,Копчености из мяса птицы,kopchenosti-iz-myasa-pticy
+80,Сыр для жарки,syr-dlya-zharki
+81,Мягкие и рассольные,myagkie-i-rassolnye
+82,Полутвердые и твердые,polutverdye-i-tverdye
+63,Детская серия,detskaya-seriya
+59,"Молоко, сливки",moloko-slivki
+57,Из козьего молока,iz-kozego-moloka
+58,Масло,maslo
+60,Сметана,smetana
+61,Творог и творожная масса,tvorog-i-tvorozhnaya-massa
+62,Йогурт и молочные напитки,yogurt-i-molochnye-napitki
+56,Кисломолочные продукты,kislomolochnye-produkty
+64,Яйцо куриное,yayco-kurinoe
+65,Яйцо перепелиное,yayco-perepelinoe
+32,"Пельмени, манты, вареники",pelmeni-manty-vareniki
+33,"Котлеты, голубцы",kotlety-golubcy
+34,"Блины, сырники",bliny-syrniki
+160,Пицца,picca-2
+18,Первые блюда,pervye-blyuda
+20,Вторые блюда,vtorye-blyuda
+21,Салаты,salaty
+22,Большие салаты,bolshie-salaty
+23,Блины,bliny
+25,Завтраки и десерты,zavtraki-i-deserty
+19,"Шашлыки, шаурма, сэндвичи",shashlyki-shaurma-sendvichi
+17,"Роллы, суши",rolly-sushi
+24,Гриль,gril
+123,Выпечка,vypechka-2
+148,Вторые блюда,vtorye-blyuda-2
+2,Масло растительное,maslo-rastitelnoe
+3,Кисель,kisel
+4,Лапша домашняя,lapsha-domashnyaya
+95,Соус,sous
+85,Хлеб и выпечка,hleb-i-vypechka
+86,Хлебобулочные изделия,hlebobulochnye-izdeliya
+51,Грибы маринованные,griby-marinovannye
+52,Варенье,varene
+53,Овощные закуски,ovoshchnye-zakuski
+54,Мясная консервация,myasnaya-konservaciya
+181,Джемы,dzhemy
+12,Полезный перекус,poleznyy-perekus
+13,Соевая продукция,soevaya-produkciya
+14,Орехи и семечки,orehi-i-semechki
+49,Мороженое,morozhenoe
+43,Шоколад и конфеты,shokolad-i-konfety
+46,Торты,torty
+45,Пряники,pryaniki
+44,Пирожное,pirozhnoe
+42,Печенье,pechene
+47,Пастила,pastila
+48,Шоколадная и ореховая паста,shokoladnaya-i-orehovaya-pasta
+6,Вода,voda
+7,Квас,kvas
+8,Лимонад,limonad
+9,Морсы,morsy
+10,Сок и нектар,sok-i-nektar
+73,Грибы,griby
+74,Овощи,ovoshchi
+75,Микрозелень,mikrozelen
