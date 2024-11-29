@@ -13,7 +13,7 @@ headers = {
     'Accept': 'application/json'
 }
 
-with open('urls/sub_categories.csv', 'r', encoding='utf-8') as file:
+with open('urls/sub_categories_urls.csv', 'r', encoding='utf-8') as file:
     reader = csv.reader(file)
 
     with open('data/categories.csv', 'w', encoding='utf-8', newline='') as csv_file:

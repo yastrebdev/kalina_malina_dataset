@@ -11,7 +11,7 @@ categories_menu = soup.find(class_ = 'hideScrollBar max-h-[calc(100dvh-350px)] o
 category_links = categories_menu.find_all('a')
 
 sub_categories = []
-with open('urls/category_links.csv', 'w', encoding='utf-8', newline='') as csv_file:
+with open('urls/category_urls.csv', 'w', encoding='utf-8', newline='') as csv_file:
     writer = csv.writer(csv_file)
 
     rep = [', ', ' ']
@@ -29,6 +29,6 @@ with open('urls/category_links.csv', 'w', encoding='utf-8', newline='') as csv_f
             sub_categories.append((text, url))
 
 for category in sub_categories:
-    with open('urls/sub_categories.csv', 'a', encoding='utf-8', newline='') as c_f:
+    with open('urls/sub_categories_urls.csv', 'a', encoding='utf-8', newline='') as c_f:
         writer = csv.writer(c_f)
         writer.writerow([category[0], category[1]])

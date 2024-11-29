@@ -14,7 +14,7 @@ headers = {
     'Accept': 'application/json'
 }
 
-with open('urls/category_links.csv', 'r') as file:
+with open('urls/category_urls.csv', 'r') as file:
     reader = csv.reader(file)
 
     for row in reader:
